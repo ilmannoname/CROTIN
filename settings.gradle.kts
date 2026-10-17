@@ -13,5 +13,5 @@ dependencyResolutionManagement {
         maven { url = java.net.URI("https://jitpack.io") }
     }
 }
-rootProject.name = "AxeronClean"
+rootProject.name = "KersenX"
 include(":app")

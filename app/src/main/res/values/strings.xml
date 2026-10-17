@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Kersen X</string>
+    <string name="dev_name">ilman</string>
+    <string name="dev_corp">Ilman Corp</string>
+    <string name="dev_ig">@ilman.dll</string>
+    <string name="dev_tiktok">@ilman6x</string>
+    <string name="dev_ig_url">https://instagram.com/ilman.dll</string>
+    <string name="dev_tiktok_url">https://www.tiktok.com/@ilman6x</string>
+</resources>
